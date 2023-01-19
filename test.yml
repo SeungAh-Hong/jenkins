@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: np-container
-      image: rapa.iptime.org:5000/nginx:latest
+      image: rapa.iptime.org:5000/hello:latest
 
 ---
 apiVersion: v1
