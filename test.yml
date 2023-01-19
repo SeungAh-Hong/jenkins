@@ -6,7 +6,7 @@ metadata:
     app: np-pod
 spec:
   containers:
-    - name: np-container
+    - name: np-pod
       image: rapa.iptime.org:5000/nginx:seung
 
 ---
